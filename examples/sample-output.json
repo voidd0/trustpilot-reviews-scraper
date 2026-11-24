@@ -1,0 +1,44 @@
+[
+  {
+    "businessSlug": "apify.com",
+    "reviewId": "6b0463d9605f40a9268a04b9",
+    "stars": 5,
+    "title": "Apify has saved me so many hours of…",
+    "text": "Apify has saved me so many hours of manual work. Having ready-made scrapers in their store means I don't have to build anything from scratch, and connecting them to my automation tools like n8n is super smooth. The platform is reliable, the interface is clean, and getting stru...",
+    "language": "en",
+    "dateCreated": "2026-11-23T18:03:37.000Z",
+    "dateExperience": "2025-11-28T00:00:00.000Z",
+    "verified": null,
+    "ownerReply": null,
+    "url": "https://www.trustpilot.com/reviews/6b0463d9605f40a9268a04b9",
+    "sentimentTags": []
+  },
+  {
+    "businessSlug": "apify.com",
+    "reviewId": "6b04534827de1e24e75e50c0",
+    "stars": 5,
+    "title": "Great for sales teams",
+    "text": "Great for sales teams",
+    "language": "en",
+    "dateCreated": "2026-11-23T16:52:56.000Z",
+    "dateExperience": "2026-11-23T00:00:00.000Z",
+    "verified": null,
+    "ownerReply": null,
+    "url": "https://www.trustpilot.com/reviews/6b04534827de1e24e75e50c0",
+    "sentimentTags": []
+  },
+  {
+    "businessSlug": "apify.com",
+    "reviewId": "6b01f8140221b943155afa81",
+    "stars": 5,
+    "title": "I love the speed of access to all of…",
+    "text": "I love the speed of access to all of the automations and data collection tools",
+    "language": "en",
+    "dateCreated": "2026-11-21T21:59:16.000Z",
+    "dateExperience": "2026-11-21T00:00:00.000Z",
+    "verified": null,
+    "ownerReply": null,
+    "url": "https://www.trustpilot.com/reviews/6b01f8140221b943155afa81",
+    "sentimentTags": []
+  }
+]
